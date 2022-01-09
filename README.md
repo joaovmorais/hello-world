@@ -7,9 +7,9 @@
 </div>
    
   <div>
-   <a href= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+    <a href= ><img src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
       </div>
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+ 
   
 <div>
   <a href="https://instagram.com/joao_v_morais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
