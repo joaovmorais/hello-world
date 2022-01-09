@@ -6,7 +6,7 @@
   <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmorais&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  <div>
+ <div style="display: inline_block"><br>
     <a href= ><img src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
       </div>
  
