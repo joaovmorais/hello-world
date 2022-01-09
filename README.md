@@ -1,3 +1,3 @@
 <div>
-![Snake animation](https://github.com/rafaballerini/joaovmorais/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaovmorais/joaovmorais/blob/output/github-contribution-grid-snake.svg)
  </div>
